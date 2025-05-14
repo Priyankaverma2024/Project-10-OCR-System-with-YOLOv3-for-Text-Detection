@@ -1,4 +1,4 @@
-# Project-10-OCR-System-with-YOLOv3-for-Text-Detection3
+# Project-10-OCR-System-with-YOLOv3-for-Text-Detection
 # OCR Text Detection Using YOLOv3
 
 ## 🔍 Problem Statement
