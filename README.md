@@ -29,15 +29,15 @@ Build an OCR system to detect and localize text in images using a custom-trained
 
 ├── images/
 
-  ├── train/
+      ├── train/
 
-  |── val/
+      |── val/
 
 ├── labels/
 
-     ├── train/
+      ├── train/
 
-     |─ val/
+      ├── val/
 
 └── dataset.yaml  ✅
 
