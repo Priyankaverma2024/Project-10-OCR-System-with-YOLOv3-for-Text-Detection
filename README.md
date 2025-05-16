@@ -27,11 +27,17 @@ Build an OCR system to detect and localize text in images using a custom-trained
 ## structure 
 /content/drive/MyDrive/OCR_Project_dataset/thyrocare_dataset/
 ├── images/
+
 │   ├── train/
+
 │   └── val/
+
 ├── labels/
+
 │   ├── train/
+
 │   └── val/
+
 └── dataset.yaml  ✅
 
 
